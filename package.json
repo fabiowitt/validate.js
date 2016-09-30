@@ -5,7 +5,7 @@
   "main": "validate.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rickharrison/validate.js"
+    "url": "git://github.com/fabiowitt/validate.js"
   },
   "keywords": [
     "validate",
@@ -17,7 +17,7 @@
   "author": "Rick Harrison",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rickharrison/validate.js/issues"
+    "url": "https://github.com/fabiowitt/validate.js/issues"
   },
-  "homepage": "https://github.com/rickharrison/validate.js"
+  "homepage": "https://github.com/fabiowitt/validate.js"
 }
